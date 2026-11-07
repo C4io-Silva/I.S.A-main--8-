@@ -1,0 +1,31 @@
+{
+  "floresta": {
+    "tamanho": "404x44",
+    "minerios": 32,
+    "decoracoes": 155,
+    "marcadores": 41,
+    "superficies": 81
+  },
+  "caverna": {
+    "tamanho": "251x44",
+    "minerios": 25,
+    "decoracoes": 102,
+    "marcadores": 36,
+    "superficies": 54
+  },
+  "copas": {
+    "tamanho": "171x44",
+    "minerios": 15,
+    "decoracoes": 150,
+    "marcadores": 22,
+    "superficies": 29
+  },
+  "arena": {
+    "tamanho": "41x44",
+    "minerios": 0,
+    "decoracoes": 12,
+    "marcadores": 5,
+    "superficies": 7
+  },
+  "total_minerios": 72
+}

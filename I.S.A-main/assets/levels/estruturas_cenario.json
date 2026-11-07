@@ -1,0 +1,350 @@
+{
+  "floresta": [
+    {
+      "imagem": "arvore_antiga.png",
+      "coluna": 19,
+      "base": 31
+    },
+    {
+      "imagem": "arvore_antiga_alt.png",
+      "coluna": 56,
+      "base": 26
+    },
+    {
+      "imagem": "arvore_antiga.png",
+      "coluna": 97,
+      "base": 31
+    },
+    {
+      "imagem": "arvore_antiga_alt.png",
+      "coluna": 139,
+      "base": 29
+    },
+    {
+      "imagem": "arvore_antiga_alt.png",
+      "coluna": 175,
+      "base": 24
+    },
+    {
+      "imagem": "arvore_antiga.png",
+      "coluna": 225,
+      "base": 32
+    },
+    {
+      "imagem": "arvore_antiga_alt.png",
+      "coluna": 282,
+      "base": 31
+    },
+    {
+      "imagem": "arvore_antiga.png",
+      "coluna": 315,
+      "base": 30
+    },
+    {
+      "imagem": "arvore_antiga_alt.png",
+      "coluna": 328,
+      "base": 28
+    },
+    {
+      "imagem": "arvore_antiga.png",
+      "coluna": 359,
+      "base": 25
+    },
+    {
+      "imagem": "isa_v06_arvore_guardia_visivel.png",
+      "coluna": 190,
+      "base": 22
+    },
+    {
+      "imagem": "isa_v06_arvore_mae_visivel.png",
+      "coluna": 383,
+      "base": 23
+    }
+  ],
+  "copas": [
+    {
+      "imagem": "arvore_copas.png",
+      "coluna": 10,
+      "base": 44
+    },
+    {
+      "imagem": "arvore_copas_alt.png",
+      "coluna": 33,
+      "base": 44
+    },
+    {
+      "imagem": "arvore_copas.png",
+      "coluna": 53,
+      "base": 44
+    },
+    {
+      "imagem": "arvore_copas_alt.png",
+      "coluna": 83,
+      "base": 44
+    },
+    {
+      "imagem": "arvore_copas_alt.png",
+      "coluna": 118,
+      "base": 44
+    },
+    {
+      "imagem": "arvore_copas.png",
+      "coluna": 156,
+      "base": 44
+    },
+    {
+      "imagem": "isa_copas_portico_subida.png",
+      "coluna": 9,
+      "base": 37
+    },
+    {
+      "imagem": "isa_copas_arvore_ancestral.png",
+      "coluna": 37,
+      "base": 39
+    },
+    {
+      "imagem": "isa_copas_ninho_raizes.png",
+      "coluna": 60,
+      "base": 27
+    },
+    {
+      "imagem": "isa_copas_arvore_espiral.png",
+      "coluna": 89,
+      "base": 30
+    },
+    {
+      "imagem": "isa_copas_portal_ancestral.png",
+      "coluna": 165,
+      "base": 19
+    },
+    {
+      "imagem": "isa_final_ramo_conector_copas_A.png",
+      "coluna": 20,
+      "base": 35
+    },
+    {
+      "imagem": "isa_final_ramo_conector_copas_B.png",
+      "coluna": 47.5,
+      "base": 31
+    },
+    {
+      "imagem": "isa_final_ramo_conector_copas_A.png",
+      "coluna": 70,
+      "base": 27
+    },
+    {
+      "imagem": "isa_final_ramo_conector_copas_B.png",
+      "coluna": 104.5,
+      "base": 27
+    },
+    {
+      "imagem": "isa_final_ramo_conector_copas_B.png",
+      "coluna": 141.5,
+      "base": 24
+    },
+    {
+      "imagem": "isa_final_ramo_conector_copas_A.png",
+      "coluna": 131.5,
+      "base": 25
+    },
+    {
+      "imagem": "isa_v05_tronco_copas_16px.png",
+      "coluna": 43.5,
+      "base": 29
+    },
+    {
+      "imagem": "isa_v05_tronco_copas_16px.png",
+      "coluna": 96.5,
+      "base": 20
+    },
+    {
+      "imagem": "isa_v05_tronco_copas_16px.png",
+      "coluna": 152.5,
+      "base": 17
+    },
+    {
+      "imagem": "isa_v05_tronco_copas_16px.png",
+      "coluna": 122.5,
+      "base": 25
+    }
+  ],
+  "caverna": [
+    {
+      "imagem": "arco_rochoso.png",
+      "coluna": 8,
+      "base": 32
+    },
+    {
+      "imagem": "isa_rock_column.png",
+      "coluna": 17,
+      "base": 31
+    },
+    {
+      "imagem": "isa_cave_arc_mass.png",
+      "coluna": 44,
+      "base": 35
+    },
+    {
+      "imagem": "arco_rochoso_alt.png",
+      "coluna": 63,
+      "base": 37
+    },
+    {
+      "imagem": "isa_cave_arc_mass.png",
+      "coluna": 89,
+      "base": 38
+    },
+    {
+      "imagem": "arco_rochoso.png",
+      "coluna": 100,
+      "base": 36
+    },
+    {
+      "imagem": "isa_cave_arc_cracked.png",
+      "coluna": 112,
+      "base": 34
+    },
+    {
+      "imagem": "isa_rock_column.png",
+      "coluna": 126,
+      "base": 32
+    },
+    {
+      "imagem": "isa_crystal_cluster_purple.png",
+      "coluna": 133,
+      "base": 36
+    },
+    {
+      "imagem": "arco_rochoso_alt.png",
+      "coluna": 145,
+      "base": 33
+    },
+    {
+      "imagem": "isa_crystal_cluster_blue.png",
+      "coluna": 153,
+      "base": 32
+    },
+    {
+      "imagem": "arco_rochoso.png",
+      "coluna": 165,
+      "base": 35
+    },
+    {
+      "imagem": "isa_rock_column_alt.png",
+      "coluna": 180,
+      "base": 35
+    },
+    {
+      "imagem": "isa_cave_arc_cracked.png",
+      "coluna": 196,
+      "base": 35
+    },
+    {
+      "imagem": "isa_cave_arc_mass.png",
+      "coluna": 208,
+      "base": 37
+    },
+    {
+      "imagem": "isa_rock_column_alt.png",
+      "coluna": 224,
+      "base": 33
+    },
+    {
+      "imagem": "isa_crystal_cluster_blue.png",
+      "coluna": 243,
+      "base": 31
+    },
+    {
+      "imagem": "isa_rock_column.png",
+      "coluna": 248,
+      "base": 32
+    },
+    {
+      "imagem": "isa_mine_support_80.png",
+      "coluna": 84.5,
+      "base": 36
+    },
+    {
+      "imagem": "isa_mine_support_112.png",
+      "coluna": 90.5,
+      "base": 36
+    },
+    {
+      "imagem": "isa_mine_support_112.png",
+      "coluna": 94.5,
+      "base": 35
+    },
+    {
+      "imagem": "isa_v05_viga_mina_48px.png",
+      "coluna": 94.5,
+      "base": 29
+    },
+    {
+      "imagem": "isa_mine_support_112.png",
+      "coluna": 98.5,
+      "base": 34
+    },
+    {
+      "imagem": "isa_v05_viga_mina_48px.png",
+      "coluna": 98.5,
+      "base": 28
+    },
+    {
+      "imagem": "isa_v05_viga_mina_48px.png",
+      "coluna": 102.5,
+      "base": 25
+    },
+    {
+      "imagem": "isa_v05_viga_mina_48px.png",
+      "coluna": 109.5,
+      "base": 25
+    },
+    {
+      "imagem": "isa_v05_viga_mina_48px.png",
+      "coluna": 117.5,
+      "base": 25
+    },
+    {
+      "imagem": "isa_v05_viga_mina_48px.png",
+      "coluna": 28.5,
+      "base": 33
+    },
+    {
+      "imagem": "isa_v05_viga_mina_48px.png",
+      "coluna": 226.5,
+      "base": 31
+    }
+  ],
+  "arena": [
+    {
+      "imagem": "coluna_santuario.png",
+      "coluna": 12,
+      "base": 24.5
+    },
+    {
+      "imagem": "coluna_santuario.png",
+      "coluna": 38,
+      "base": 24.5
+    },
+    {
+      "imagem": "isa_arena_portico_retorno.png",
+      "coluna": 5,
+      "base": 25
+    },
+    {
+      "imagem": "isa_arena_estandarte_pedra.png",
+      "coluna": 13,
+      "base": 25
+    },
+    {
+      "imagem": "isa_arena_arco_guardiao.png",
+      "coluna": 34,
+      "base": 25
+    },
+    {
+      "imagem": "isa_arena_estandarte_pedra.png",
+      "coluna": 37,
+      "base": 25
+    }
+  ]
+}

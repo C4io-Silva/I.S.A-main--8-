@@ -1,0 +1,59 @@
+# Python bytecode e cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Configuração de IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Artefatos do projeto
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build e distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pygame/execução local
+*.save
+*.autosave
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / ambiente local
+.env
+.env.*
+
+# Local settings
+*.local
+
+# I.S.A — saídas geradas
+assets/levels/gerados/
+assets/levels/backup/
+assets/banco de dados/backup/
+relatorio_sessao_*.pdf
