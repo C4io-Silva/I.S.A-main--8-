@@ -6,3 +6,4 @@ Para trocar a senha, altere SENHA_ADMIN aqui (é o único lugar).
 """
 
 SENHA_ADMIN = "0000"
+#testando
